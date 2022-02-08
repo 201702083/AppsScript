@@ -1,2 +1,2 @@
 # AppsScript
-Google script 
+Google script source code 기록용
